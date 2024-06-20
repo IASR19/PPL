@@ -1,3 +1,9 @@
+# Autores:
+- Ana Luiza Martins
+- Itamar Ribeiro
+- Gabriella Gonçalves
+
+
 # Resolvedor de Problemas de Programação Linear (PPL)
 
 Este é um aplicativo desenvolvido em Python usando Streamlit e PuLP para resolver problemas de programação linear (PPL) utilizando o método Simplex. O aplicativo permite a entrada de dados da função objetivo e das restrições, resolve o problema e exibe os resultados, incluindo a solução ótima e os preços sombra das restrições.
