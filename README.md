@@ -1,7 +1,8 @@
 # Autores:
 - Ana Luiza Martins
-- Itamar Ribeiro
 - Gabriella Gonçalves
+- Itamar Ribeiro
+
 
 
 # Resolvedor de Problemas de Programação Linear (PPL)
